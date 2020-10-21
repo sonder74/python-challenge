@@ -20,7 +20,7 @@ Well... you've made it!
 It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete **2** Python Challenges, PyBank and PyPoll.
 Both of these challenges encompasses a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
-<strong>Before You Begin</strong>
+**Before You Begin**
 
 1. Create a new repository for this project called `python-challenge`. **Do not add this homework to an existing repository**.
 
@@ -32,7 +32,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 5. Push the above changes to GitHub or GitLab.
 
-<strong>PyBank</strong>
+**PyBank**
 
 * In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -62,7 +62,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-<strong>PyPoll</strong>
+**PyPoll**
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
@@ -96,7 +96,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-<strong>Hints and Considerations<strong>
+**Hints and Considerations**
 
 * Consider what we've learned so far. To date, we've learned how to import modules like `csv`; to read and write files in various formats; to store contents in variables, lists, and dictionaries; to iterate through basic data structures; and to debug along the way. Using what we've learned, try to break down you tasks into discrete mini-objectives. This will be a _much_ better course of action than attempting to Google Search for a miracle.
 
