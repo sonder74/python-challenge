@@ -13,7 +13,7 @@ With this project, I was able to take my deepest dive yet into Python. The tasks
 
 ## Project Instructions
 
-<strong>Background</strong>
+**Background**
 
 Well... you've made it!
 
