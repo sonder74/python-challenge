@@ -9,6 +9,9 @@
 
 
 ## Project Goals
+With this project, I was able to take my deepest dive yet into Python. The tasks focus on banking data, and they are designed to give students a solid foundation in a programming language that will serve as the basis for many projects (and perhaps job opportunities) to come. 
+
+## Classroom Instructions
 With this project, I set out to sharpen my Microsoft Excel skills and learn how to code in VBA, which was new to me. I worked with stock data to acheive these goals.
 
 
