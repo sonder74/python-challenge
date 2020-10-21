@@ -8,7 +8,8 @@
  4. [Outcomes and Lessons Learned](#my-results)
 
 
-
+## Project Goals
+With this project, I set out to sharpen my Microsoft Excel skills and learn how to code in VBA, which was new to me. I worked with stock data to acheive these goals.
 
 
 
