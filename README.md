@@ -9,7 +9,7 @@
 
 
 ## Project Goals
-With this project, I was able to take my deepest dive yet into Python. The tasks focus on banking data, and they are designed to give students a solid foundation in a programming language that will serve as the basis for many projects (and perhaps job opportunities) to come. 
+With this project, I was able to take my deepest dive yet into Python. The tasks focus on both banking and election data, and they are designed to give students a solid foundation in a programming language that will serve as the basis for many projects (and perhaps job opportunities) to come. 
 
 ## Project Instructions
 
@@ -115,5 +115,5 @@ Both of these challenges encompasses a real-world situation where your newfound 
 ### Instructions Copyright:
 Trilogy Education Services © 2019. All Rights Reserved.
 
-## Project Goals
-With this project, I was able to take my deepest dive yet into Python. The tasks focus on banking data, and they are designed to give students a solid foundation in a programming language that will serve as the basis for many projects (and perhaps job opportunities) to come. 
+## Tools and Solutions
+This project presented me with a momentous challenge: writing <a href="https://github.com/sonder74/python-challenge/blob/master/**PyBank**/main.py">my first Python program</a>! I used that program to access a large CSV file of banking data, and I created loops and variables to iterate through the information, manipulate it with simple mathematical functions, and then generate a printed report.
