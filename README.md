@@ -112,6 +112,8 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
   * **Commit often**.
 
-## Copyright
-
+### Instructions Copyright:
 Trilogy Education Services © 2019. All Rights Reserved.
+
+## Project Goals
+With this project, I was able to take my deepest dive yet into Python. The tasks focus on banking data, and they are designed to give students a solid foundation in a programming language that will serve as the basis for many projects (and perhaps job opportunities) to come. 
