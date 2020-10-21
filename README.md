@@ -62,9 +62,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-## PyPoll
-
-![Vote-Counting](Images/Vote_counting.png)
+<strong>PyPoll</strong>
 
 * In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
@@ -98,7 +96,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 * In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-## Hints and Considerations
+<strong>Hints and Considerations<strong>
 
 * Consider what we've learned so far. To date, we've learned how to import modules like `csv`; to read and write files in various formats; to store contents in variables, lists, and dictionaries; to iterate through basic data structures; and to debug along the way. Using what we've learned, try to break down you tasks into discrete mini-objectives. This will be a _much_ better course of action than attempting to Google Search for a miracle.
 
