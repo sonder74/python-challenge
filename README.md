@@ -13,7 +13,7 @@ With this project, I was able to take my deepest dive yet into Python. The tasks
 
 ## Project Instructions
 
-<strongBackground</strong>
+<strong>Background</strong>
 
 Well... you've made it!
 
@@ -32,9 +32,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
 
 5. Push the above changes to GitHub or GitLab.
 
-## PyBank
-
-![Revenue](Images/revenue-per-lead.png)
+<strong>PyBank</strong>
 
 * In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called [budget_data.csv](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
