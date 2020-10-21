@@ -3,7 +3,7 @@
 ### Table of Contents:
 
  1. [Project Goals](#project-goals)
- 2. [Classroom Instructions](#classroom-instructions)
+ 2. [Project Instructions](#project-instructions)
  3. [Tools and Solutions](#tools-and-solutions)
  4. [Outcomes and Lessons Learned](#my-results)
 
@@ -11,29 +11,16 @@
 ## Project Goals
 With this project, I was able to take my deepest dive yet into Python. The tasks focus on banking data, and they are designed to give students a solid foundation in a programming language that will serve as the basis for many projects (and perhaps job opportunities) to come. 
 
-## Classroom Instructions
-With this project, I set out to sharpen my Microsoft Excel skills and learn how to code in VBA, which was new to me. I worked with stock data to acheive these goals.
+## Project Instructions
 
-
-
-
-
-
-
-
-
-
-
-# Python Homework - Py Me Up, Charlie
-
-## Background
+<strongBackground</strong>
 
 Well... you've made it!
 
 It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete **2** Python Challenges, PyBank and PyPoll.
 Both of these challenges encompasses a real-world situation where your newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
-### Before You Begin
+<strong>Before You Begin</strong>
 
 1. Create a new repository for this project called `python-challenge`. **Do not add this homework to an existing repository**.
 
